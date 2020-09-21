@@ -6,7 +6,7 @@
 
 > 本文**GitHub** [https://github.com/JavaFamily](https://github.com/AobingJava/JavaFamily) 已收录，有一线大厂面试点脑图、个人联系方式和技术交流群，欢迎Star和指教
 
-## 前言
+## 前言 啊哈
 
 **消息队列**在互联网技术存储方面使用如此广泛，几乎所有的后端技术面试官都要在**消息队列**的使用和原理方面对小伙伴们进行360°的刁难。
 
